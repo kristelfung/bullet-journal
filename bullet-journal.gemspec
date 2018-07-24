@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "bullet-journal"
   spec.version       = "0.1.0"
-  spec.authors       = ["Pax"]
+  spec.authors       = ["Kristel Fung"]
   spec.email         = ["kristelfung@gmail.com"]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "A bullet journal style theme."
+  spec.homepage      = "https://kristelfung.com/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
