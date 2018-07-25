@@ -1,4 +1,5 @@
-{% for item in site.pages %}
+{% assign mypages = site.pages | sort: "order" %}
+{% for item in mypages %}
     <a class="clear" href="{{ item.url | relative_url }}">
         {{ item.title }}
     </a>
