@@ -17,5 +17,12 @@ linkedin_username: kristelfung
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
+navlinks:
+  - index.md
+  - skills.md
+  - projects.md
+  - about.md
+  - blog.md
+
 # Jekyll
 permalink:          /blog/:title/
