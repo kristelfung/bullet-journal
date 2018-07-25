@@ -1,0 +1,21 @@
+title: Kristel Fung
+author: GitHub User
+email: kristelfung@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+# social links
+github_username:  kristelfung
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: kristelfung
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Jekyll
+permalink:          /blog/:title/
