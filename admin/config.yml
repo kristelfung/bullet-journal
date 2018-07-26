@@ -18,9 +18,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page"
     label: "Page"
-    folder: "/"
-    filter: {field: "order"}
+    folder: "/" 
     create: true
+    filter: {field: "!order"}
     slug: {{slug}}
     fields:
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "blog", "home"]}
