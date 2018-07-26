@@ -20,4 +20,4 @@ sass:
 
 # Jekyll
 permalink: /blog/:title/
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal.gemspec']
