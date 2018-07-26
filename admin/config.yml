@@ -19,7 +19,7 @@ collections:
   - name: "page"
     label: "Page"
     folder: "/"
-    create: false
+    create: true
     slug: {{slug}}
     fields:
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "blog", "home"]}
