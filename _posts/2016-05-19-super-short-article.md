@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some articles are just so short that we have to make the footer stick
-date: '2018-06-25T00:00:00+08:00'
+date: '2016-05-19T00:00:00+08:00'
 category: Story
 thumbnail: /images/uploads/1.png
 ---
