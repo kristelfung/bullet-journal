@@ -1,3 +1,12 @@
 body {
-    color: red;
+    background-image: url(../../images/bullet.png);
+}
+
+.container {
+    max-width: $medium;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
 }

@@ -1,0 +1,15 @@
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+        });
+    }
+</script>
+<script src="{{ "/assets/js/vivus.min.js" | relative_url }}"></script>
+<script>
+    new Vivus('my-svg', {start: 'autostart', selfDestroy: true});
+</script>

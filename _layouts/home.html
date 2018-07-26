@@ -1,5 +1,11 @@
 ---
 layout: default
 ---
-home LAYOUT
-{{ content }}
+<div class="container">
+    <div class="center">
+        {{ content }}
+    </div>
+    <object id="my-svg" type="image/svg+xml" data="{{ "/images/hk-skyline.svg" | relative_url }}">
+        <img src="{{ "/images/hk-skyline.png" | relative_url }}"/>
+    </object>
+</div>
