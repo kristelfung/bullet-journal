@@ -20,7 +20,6 @@ collections:
     label: "Page"
     folder: "/" 
     create: true
-    filter: {field: "!order"}
     slug: {{slug}}
     fields:
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "blog", "home"]}
