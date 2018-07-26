@@ -19,7 +19,7 @@ collections:
   - name: "page"
     label: "Page"
     folder: "/"
-    filter: {field: "order", value: true}
+    filter: {field: "order", value: required}
     create: true
     slug: {{slug}}
     fields:
