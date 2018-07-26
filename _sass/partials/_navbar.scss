@@ -1,0 +1,13 @@
+.navbar {
+    text-transform: uppercase;
+
+    a {
+        text-decoration: none;
+    }
+    a:visited {
+        color: black;
+    }
+    a:hover {
+        color: lighten(black, 60%);
+    }
+}

@@ -5,7 +5,7 @@
 
 body {
     font-size: 62.5%;
-    font-family: 'Caroni';
+    font-family: 'Caroni', Helvetica;
     background-image: url(../../images/bullet.png);
 }
 
@@ -19,11 +19,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 0.5rem 0rem;
+    margin: 0rem;
 }
 
 h1 {
-    font-size: 3.2rem;
+    font-size: 3rem;
 }
 
 h2 {

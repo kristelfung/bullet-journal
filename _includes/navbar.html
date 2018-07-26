@@ -1,6 +1,16 @@
 {% assign mypages = site.pages | sort: "order" %}
-{% for item in mypages %}
-    <a class="clear" href="{{ item.url | relative_url }}">
-        {{ item.title }}
-    </a>
-{% endfor %}
+<nav class="navbar">
+    <div class="container">
+        <ul>
+        {% for item in mypages %}
+            {% if item.title %}
+                <li>
+                    <a href="{{ item.url | relative_url }}">
+                        {{ item.title }}
+                    </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+</nav>
