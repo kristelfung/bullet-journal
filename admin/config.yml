@@ -19,6 +19,7 @@ collections:
   - name: "page"
     label: "Page"
     folder: "/"
+    filter: {field: "filename", value: "!README.md"}
     create: true
     slug: {{slug}}
     fields:
