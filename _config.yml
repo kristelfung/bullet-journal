@@ -18,6 +18,12 @@ linkedin_username: kristelfung
 sass:
     style: compressed # we want our css minified
 
+# compress our html
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
+
 # Jekyll
 permalink: /blog/:title/
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal.gemspec']
