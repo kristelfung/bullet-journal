@@ -24,5 +24,6 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "blog", "home"]}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Banner Image", name: "banner-image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}

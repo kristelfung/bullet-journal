@@ -16,6 +16,10 @@ body {
     padding-right: 1.5rem;
 }
 
+.container--small {
+    max-width: $small;
+}
+
 .center {
     text-align: center;
 }
@@ -62,5 +66,4 @@ p, a {
 
 .column {
     flex: 50%;
-    text-align: center;
 }
