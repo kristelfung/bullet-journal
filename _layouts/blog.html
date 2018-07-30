@@ -3,13 +3,21 @@ layout: default
 ---
 <div class="container">
     {%- include banner.html -%}
-    <ul>
-        {% for post in site.posts %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-    </ul>
+    <div class="container container--small">
+      <ul class="post-collection">
+          {% for post in site.posts %}
+            <li class="blog-item">
+              <div class="row">
+                <div class="column column--blog-title">
+                    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                </div>
+                <div class="column column--blog-thumbnail">
+                </div>
+              </div>
+            </li>
+          {% endfor %}
+      </ul>
+    </div>
 </div>
 
 {{ content }}
