@@ -11,7 +11,7 @@ layout: default
             <a href="{{ post.url }}">
               <h3 class="blog-title">{{ post.title }}</h3>
               <p class="blog-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}</p>
-              <span class="blog-tag">{{ post.category }}</span>
+              <span class="blog-tag {{ post.category }}">{{ post.category }}</span>
             </a>
           </div>
           <div class="column column--blog-thumbnail">

@@ -2,7 +2,7 @@
 layout: post
 title: hello 
 date: '2016-05-20T00:00:00+08:00'
-category: Story
+category: Programming
 thumbnail: /images/uploads/1.png
 ---
 
