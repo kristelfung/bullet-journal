@@ -18,8 +18,18 @@
     a {
         text-decoration: none;
         display: block;
-        padding: 2rem;
+        padding: 2rem 3rem;
+        color: black;
     }
+}
+
+.blog-title {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.blog-excerpt {
+    margin-top: 0;
 }
 
 .column--blog-title {
@@ -28,4 +38,12 @@
 
 .column--blog-thumbnail {
     flex: 30%;
+}
+
+.blog-tag {
+    border: 0.1rem solid black;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    padding: 0.2rem 0.5rem;
+    font-weight: bold;
 }

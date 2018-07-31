@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 @font-face {
     font-family: 'Caroni';
     src: url(../../assets/fonts/Caroni-Regular.otf);
@@ -55,10 +59,6 @@ h6 {
 
 p, a {
     font-size: 1.4rem;
-}
-
-* {
-    box-sizing: border-box;
 }
 
 .row {
