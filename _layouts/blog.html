@@ -6,18 +6,19 @@ layout: default
   <ul class="post-collection">
     {% for post in site.posts %}
       <li class="blog-item">
-        <div class="row">
+        <a href="{{ post.url }}">
+        <div class="row row--posts">
           <div class="column column--blog-title">
-            <a href="{{ post.url }}">
               <h3 class="blog-title">{{ post.title }}</h3>
               <h5 class="blog-date">{{ post.date | date: "%B %-d, %Y" }}</h5>
               <p class="blog-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}</p>
               <span class="blog-tag {{ post.category }}">{{ post.category }}</span>
-            </a>
           </div>
           <div class="column column--blog-thumbnail">
+              <img src="{{ post.thumbnail | relative_url }}" class="blog-thumbnail" />
           </div>
         </div>
+        </a>
       </li>
     {% endfor %}
   </ul>

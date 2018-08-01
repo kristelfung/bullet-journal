@@ -18,7 +18,7 @@
     a {
         text-decoration: none;
         display: block;
-        padding: 2rem 3rem;
+        padding: 2rem;
         color: black;
     }
 }
@@ -31,12 +31,24 @@
     margin-top: 0.5rem;
 }
 
+.row--posts {
+    align-items: center;
+
+    .column {
+        padding: 1rem;
+    }
+}
+
 .column--blog-title {
     flex: 70%;
 }
 
 .column--blog-thumbnail {
     flex: 30%;
+}
+
+.blog-thumbnail {
+    width: 100%;
 }
 
 .blog-tag {

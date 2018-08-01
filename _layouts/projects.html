@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{%- include banner.html -%}
+<div class="container--small">
+    <ul class="post-collection">
+    {% for project in site.projects %}
+      <li class="blog-item">
+        <div class="row row--posts">
+          <div class="column column--blog-title">
+              <h3 class="blog-title">{{ project.title }}</h3>
+              <h5 class="blog-date">{{ project.date_created }}</h5>
+          </div>
+          <div class="column column--blog-thumbnail">
+              <img src="{{ post.thumbnail | relative_url }}" class="blog-thumbnail" />
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
+</div>
+{{content}}

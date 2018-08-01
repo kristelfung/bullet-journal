@@ -21,4 +21,5 @@ compress_html:
 permalink: /blog/:title/
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal.gemspec']
 collections: 
-  - projects
+  projects:
+    output: true

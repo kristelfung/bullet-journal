@@ -16,9 +16,21 @@ collections:
       - {label: "Category", name: "category", widget: "select", options: ["Story", "Programming", "TIFU"]}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "projects"
+    label: "Projects"
+    folder: "_projects"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"} # layout doesnt matter
+      - {label: "Published", name: "published", widget: "hidden", default: "false"}
+      - {label: "Project Title", name: "title", widget: "string"}
+      - {label: "Date Created", name: "date_created", widget: "string"}
+      - {label: "Preview Image", name: "image", widget: "image"}
   - name: "page"
     label: "Page"
     folder: "/" 
+    filter: {field: edit, value: true}
     create: true
     slug: {{slug}}
     fields:
