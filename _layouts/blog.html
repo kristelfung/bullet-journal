@@ -10,6 +10,7 @@ layout: default
           <div class="column column--blog-title">
             <a href="{{ post.url }}">
               <h3 class="blog-title">{{ post.title }}</h3>
+              <h5 class="blog-date">{{ post.date | date: "%B %-d, %Y" }}</h5>
               <p class="blog-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}</p>
               <span class="blog-tag {{ post.category }}">{{ post.category }}</span>
             </a>

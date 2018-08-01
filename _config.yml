@@ -6,14 +6,7 @@ description: > # this means to ignore newlines after this
 
 # social links
 github_username:  kristelfung
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
 linkedin_username: kristelfung
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
 
 sass:
     style: compressed # we want our css minified
@@ -27,3 +20,5 @@ compress_html:
 # Jekyll
 permalink: /blog/:title/
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal.gemspec']
+collections: 
+  - projects
