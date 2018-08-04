@@ -7,7 +7,6 @@
 }
 
 .post-item { /* <li> */
-    border: 0.1rem solid black;
     border-radius: 0.5rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -18,4 +17,12 @@
         padding: 2rem;
         color: black;
     }
+}
+
+.post-item--full-outline {
+    border: 0.1rem solid black;
+}
+
+.post-title, .post-date {
+    margin-bottom: 0.5rem;
 }

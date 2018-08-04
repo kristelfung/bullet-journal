@@ -5,4 +5,4 @@ order: 4
 layout: page
 edit: true
 ---
-about data
+Hello people. I am glad you found my site. 

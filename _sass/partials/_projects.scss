@@ -1,0 +1,52 @@
+.column--project-thumbnail {
+    flex: 40%;
+    border: 0.1rem solid black;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+
+.column--project-desc {
+    flex: 60%;
+    padding: 1rem;
+    border-top: 0.1rem solid black;
+    border-bottom: 0.1rem solid black;
+    border-right: 0.1rem solid black;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+
+.tool-label {
+    display: inline-block;
+    font-size: 1rem;
+    border: 0.1rem solid black;
+    padding: 0.1rem 0.4rem;
+    border-radius: 0.3rem;
+}
+
+.HTMLCSS {
+    background-color: $html-orange;
+}
+
+.JavaScript {
+    background-color: $js-yellow;
+}
+
+.Bootstrap {
+    background-color: $bs-purple;
+}
+
+.React {
+    background-color: $react-blue;
+}
+
+.Redux {
+    background-color: $redux-purple;
+}
+
+.SASS {
+    background-color: $sass-pink;
+}
+
+.Bulma {
+    background-color: $bulma-green;
+}

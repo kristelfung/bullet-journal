@@ -5,12 +5,12 @@ layout: default
 <div class="container--small">
   <ul class="post-collection">
     {% for post in site.posts %}
-      <li class="post-item">
+      <li class="post-item post-item--full-outline">
         <a href="{{ post.url }}">
         <div class="row row--posts">
           <div class="column column--blog-title">
-              <h3 class="blog-title">{{ post.title }}</h3>
-              <h5 class="blog-date">{{ post.date | date: "%B %-d, %Y" }}</h5>
+              <h3 class="post-title">{{ post.title }}</h3>
+              <h5 class="post-date">{{ post.date | date: "%B %-d, %Y" }}</h5>
               <p class="blog-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}</p>
               <span class="blog-tag {{ post.category }}">{{ post.category }}</span>
           </div>
