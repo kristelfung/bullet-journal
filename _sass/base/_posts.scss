@@ -1,0 +1,21 @@
+// post type items - found in projects and blog
+.post-collection {
+    list-style-type: none;
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+.post-item { /* <li> */
+    border: 0.1rem solid black;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    a {
+        text-decoration: none;
+        display: block;
+        padding: 2rem;
+        color: black;
+    }
+}

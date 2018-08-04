@@ -27,12 +27,13 @@ collections:
       - {label: "Project Title", name: "title", widget: "string"}
       - {label: "Date Created", name: "date_created", widget: "string"}
       - {label: "Preview Image", name: "image", widget: "image"}
+      - {label: "Description", name: "body", widget: "markdown"}
   - name: "page"
     label: "Page"
     folder: "/" 
     filter: {field: edit, value: true}
     create: true
-    slug: {{slug}}
+    slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "blog", "home"]}
       - {label: "Title", name: "title", widget: "string"}

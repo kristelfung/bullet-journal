@@ -5,13 +5,14 @@ layout: default
 <div class="container--small">
     <ul class="post-collection">
     {% for project in site.projects %}
-      <li class="blog-item">
-        <div class="row row--posts">
-          <div class="column column--blog-title">
+      <li class="post-item">
+        <div class="row">
+          <div class="column">
               <h3 class="blog-title">{{ project.title }}</h3>
               <h5 class="blog-date">{{ project.date_created }}</h5>
+              <p>{{ project.content }}</p>
           </div>
-          <div class="column column--blog-thumbnail">
+          <div class="column">
               <img src="{{ post.thumbnail | relative_url }}" class="blog-thumbnail" />
           </div>
         </div>
