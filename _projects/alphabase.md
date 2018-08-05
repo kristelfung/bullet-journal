@@ -6,6 +6,6 @@ tools:
   - HTML/CSS
   - JavaScript
   - Bootstrap
-image: /images/uploads/1.png
+thumbnail: /images/uploads/1.png
 ---
 this isnt quite working

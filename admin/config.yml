@@ -27,7 +27,7 @@ collections:
       - {label: "Project Title", name: "title", widget: "string"}
       - {label: "Date Created", name: "date_created", widget: "string"}
       - {label: "Technolgoies Used", name: "tools", widget: "list"}
-      - {label: "Preview Image", name: "image", widget: "image"}
+      - {label: "Preview Image", name: "thumbnail", widget: "image"}
       - {label: "Description", name: "body", widget: "markdown"}
   - name: "page"
     label: "Pages"
