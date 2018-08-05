@@ -23,6 +23,15 @@
     border-radius: 0.3rem;
 }
 
+.icon-link {
+    text-decoration: none;
+    color: $link-blue;
+}
+
+.icon-link:hover {
+    color: $link-blue-hover;
+}
+
 .HTMLCSS {
     background-color: $html-orange;
 }
