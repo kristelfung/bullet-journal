@@ -37,7 +37,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Published", name: "published", widget: "hidden", default: "false"}
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Skill Name", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
   - name: "page"
     label: "Pages"
