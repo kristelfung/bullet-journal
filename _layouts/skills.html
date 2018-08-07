@@ -11,7 +11,7 @@ layout: default
         {% for skill in myskills limit:3 offset:offset %}
         <div class="column column--skill">
             <img src="{{ skill.image | relative_url }}">
-            <p>{{ skill.name }}</p>
+            <p>{{ skill.title }}</p>
         </div>
         {% endfor %}
     </div>
