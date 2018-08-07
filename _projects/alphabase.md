@@ -1,5 +1,4 @@
 ---
-layout: post
 title: alphabase
 date_created: '2016'
 tools:

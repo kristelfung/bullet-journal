@@ -50,6 +50,7 @@ body {
     font-size: 62.5%;
     font-family: 'Caroni', Helvetica;
     background-image: url(../../images/bullet.png);
+    margin: 0;
 }
 
 .container {
@@ -70,6 +71,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0rem;
+    font-weight: 500; // fix buggy R in chrome
 }
 
 h1 {

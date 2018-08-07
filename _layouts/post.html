@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<div class="container">
-    {%- include banner.html -%}
+<div class="container--small">
+    <h3 class="back"><a href="/blog"> < Back to Posts</a></h3>
+    <h1>{{ page.title }}</h1>
+    <img src="{{ page.coverphoto | relative_url }}" class="cover-image"/>
     {{ content }}
 </div>

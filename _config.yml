@@ -23,3 +23,5 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal
 collections: 
   projects:
     output: true
+  skills:
+    output: true

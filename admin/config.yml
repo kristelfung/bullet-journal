@@ -13,7 +13,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Category", name: "category", widget: "select", options: ["Story", "Programming", "TIFU"]}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Cover Photo", name: "coverphoto", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "projects"
     label: "Projects"
@@ -21,7 +22,6 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"} # layout doesnt matter
       - {label: "Published", name: "published", widget: "hidden", default: "false"}
       - {label: "Project Title", name: "title", widget: "string"}
       - {label: "Date Created", name: "date_created", widget: "string"}
@@ -30,6 +30,15 @@ collections:
       - {label: "Description", name: "body", widget: "markdown"}
       - {label: "Website Link", name: "link", widget: "string", required: false}
       - {label: "Github Link", name: "github", widget: "string", required: false}
+  - name: "skills"
+    label: "Skills"
+    folder: "_skills"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Published", name: "published", widget: "hidden", default: "false"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
   - name: "page"
     label: "Pages"
     folder: "/" 
