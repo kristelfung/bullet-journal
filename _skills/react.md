@@ -1,5 +1,5 @@
 ---
 title: React
-image: /images/uploads/1.png
+image: /images/uploads/react.svg
 order: 5
 ---
