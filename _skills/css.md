@@ -1,5 +1,5 @@
 ---
 title: CSS
-image: /images/uploads/1.png
+image: /images/uploads/css.svg
 order: 2
 ---

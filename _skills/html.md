@@ -1,5 +1,5 @@
 ---
 title: HTML
-image: /images/uploads/1.png
+image: /images/uploads/html.svg
 order: 1
 ---

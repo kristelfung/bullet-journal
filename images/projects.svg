@@ -3,14 +3,14 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 369.601 372.873" style="enable-background:new 0 0 369.601 372.873;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#8C88E5;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st0{fill:#6C5CE7;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st1{fill:#FFEAA7;}
-	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st4{fill:#333333;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st5{fill:#FFEAA7;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st6{fill:#CD6133;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st7{fill:#6C5CE7;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#6C5CE7;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st5{fill:#666666;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:#FFEAA7;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st7{fill:#CD6133;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 </style>
 <g id="fill">
 	<path class="st0" d="M122.53,357.133c0,0-1-9-2-22s1-36,1-36l-16,11l-35-38c0,0,18-20,32-35s56-43.958,56-43.958
@@ -24,22 +24,22 @@
 	<circle class="st2" cx="157.03" cy="134.633" r="1.5"/>
 	<circle class="st2" cx="186.03" cy="135.633" r="1.5"/>
 	<line class="st2" x1="183.53" y1="176.133" x2="203.53" y2="176.133"/>
-	<path class="st0" d="M122.53,357.133c0,0-1-9-2-22s1-36,1-36l-16,11l-35-39c0,0,18-19,32-34s56-43.958,56-43.958
+	<path class="st3" d="M122.53,357.133c0,0-1-9-2-22s1-36,1-36l-16,11l-35-39c0,0,18-19,32-34s56-43.958,56-43.958
 		s20.144,12.434,49.072,12.434s51.346-14.555,51.346-14.555s33.582-0.92,70.582,64.08s67,127-10,114s-132-48-132-48s5-5,6-14
 		s-3-22-3-22s35,2,60,10c0.909,0.291,45,14,45,14l-21-28l1,21"/>
-	<path class="st3" d="M190.796,286.045c0,0-9.266-4.912-23.266-3.912s-34,7-34,15s4,16,16,20s36,3,39,0s5.307-6.876,5.153-12.938
+	<path class="st4" d="M190.796,286.045c0,0-9.266-4.912-23.266-3.912s-34,7-34,15s4,16,16,20s36,3,39,0s5.307-6.876,5.153-12.938
 		S190.796,286.045,190.796,286.045z"/>
-	<path class="st4" d="M110.53,295.133l11-8l-4-5l5-4l12,14l14-8l-15-15l10-8l-4-5c0,0,4-7,11-7s12,1,12,1s-6-12-19-12s-15,4-15,4
+	<path class="st5" d="M110.53,295.133l11-8l-4-5l5-4l12,14l14-8l-15-15l10-8l-4-5c0,0,4-7,11-7s12,1,12,1s-6-12-19-12s-15,4-15,4
 		l-4-4l-21,19l5,6l-5,4l-5-6l-10,9L110.53,295.133z"/>
-	<polygon class="st4" points="160.174,319.252 179.691,338.945 191.53,329.204 181.765,320.675 	"/>
-	<polyline class="st5" points="9.53,307.133 9.53,362.133 102.53,362.133 102.53,307.133 	"/>
+	<polygon class="st5" points="160.129,319.322 179.735,338.928 191.53,329.133 181.727,320.648 	"/>
+	<polyline class="st6" points="9.53,307.133 9.53,362.133 102.53,362.133 102.53,307.133 	"/>
 	<polyline class="st2" points="1.53,316.133 54.53,253.133 110.53,317.133 	"/>
-	<rect x="45.53" y="329.133" class="st6" width="19" height="32"/>
+	<rect x="45.53" y="329.133" class="st7" width="19" height="32"/>
 	<polyline class="st2" points="88.53,282.133 94.53,288.633 100.53,295.133 	"/>
 	<line class="st2" x1="94.53" y1="289.133" x2="91.266" y2="292.397"/>
-	<path class="st7" d="M61.53,37.133c6.896,1.603,11.258,7.255,16,12"/>
-	<path class="st7" d="M77.53,18.133c2.839,4.718,7.375,11.759,12,15"/>
-	<line class="st7" x1="296.53" y1="17.133" x2="307.53" y2="1.133"/>
-	<line class="st7" x1="310.53" y1="29.133" x2="324.53" y2="17.133"/>
+	<path class="st3" d="M61.53,37.133c6.896,1.603,11.258,7.255,16,12"/>
+	<path class="st3" d="M77.53,18.133c2.839,4.718,7.375,11.759,12,15"/>
+	<line class="st3" x1="296.53" y1="17.133" x2="307.53" y2="1.133"/>
+	<line class="st3" x1="310.53" y1="29.133" x2="324.53" y2="17.133"/>
 </g>
 </svg>
