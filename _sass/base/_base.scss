@@ -98,7 +98,7 @@ h6 {
     font-size: 1rem;
 }
 
-p, a {
+p, a, li {
     font-size: 1.4rem;
 }
 
@@ -108,6 +108,12 @@ a, a:visited {
 
 a:hover, a:visited:hover {
     color: $link-blue-hover;
+}
+
+ul, ol {
+    margin: 0;
+    padding-left: 30px;
+    list-style-position: outside;
 }
 
 .row {

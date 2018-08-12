@@ -5,6 +5,7 @@ tools:
   - HTML/CSS
   - JavaScript
   - Bootstrap
-thumbnail: /images/uploads/1.png
+thumbnail: /images/uploads/alphabase.jpg
 ---
-lalalalaalal
+- Web app holding artificial intelligence competitions
+- Designed and developed front-end, integrated with PHP backend

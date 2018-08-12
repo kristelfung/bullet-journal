@@ -7,8 +7,7 @@ layout: default
     {% for project in site.projects %}
       <li class="post-item">
         <div class="row">
-            <div class="column column--project-thumbnail">
-                <img src="{{ project.thumbnail | relative_url }}" class="blog-thumbnail" />
+            <div class="column column--project-thumbnail" style="background-image: url({{ project.thumbnail | relative_url }})">
             </div>
             <div class="column column--project-desc">
                 <h3 class="post-title">
