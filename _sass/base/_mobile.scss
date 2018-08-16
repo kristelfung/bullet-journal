@@ -1,0 +1,27 @@
+.mobile {
+    display: none;
+}
+
+@media (max-width: $small) {
+    .mobile {
+        display: block;
+    }
+
+    .desktop {
+        display: none;
+    }
+}
+
+.row--mobile {
+    align-items: center;
+    padding-top: calc(0.15*100vh);
+}
+
+.column--mobile-img {
+    max-width: 9rem;
+}
+
+.column--mobile-txt {
+    text-align: center;
+    padding: 1rem;
+}
