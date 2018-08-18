@@ -5,6 +5,9 @@ layout: compress
 <html lang="en">
     {%- include head.html -%}
     <body>
+        <script>
+            document.body.className = 'fade';
+        </script>
         <div class="mobile">
             <div class="row row--mobile">
                 <div class="column column--mobile-txt">
@@ -22,5 +25,10 @@ layout: compress
                 {{ content }}
             </div>
         </div>
+        <script>
+            document.addEventListener("DOMContentLoaded", function(e) {
+                document.body.className = '';
+            });
+        </script>
     </body>
 </html>
