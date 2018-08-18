@@ -1,6 +1,6 @@
 <nav class="navbar">
     <div class="row container row--navbar">
-        <div class="column navbar-right">
+        <div class="column navbar__right">
             {% assign mypages = site.pages | sort: "order" %}
             <ul>
                 {% for item in mypages %}
@@ -14,11 +14,23 @@
                 {% endfor %}
             </ul>
         </div>
-        <div class="column navbar-left">
+        <div class="column navbar__left">
             <ul>
-                <li onclick="showLinkedin();"><span class="icon-linkedin"></span></li>
-                <li><span class="icon-mail4"></span></li>
-                <li><span class="icon-github"></span></li>
+                <li class="navbar__logo">
+                    <a href="https://www.linkedin.com/in/kristel-fung-4ba37635/">
+                        <span class="icon-linkedin"></span>
+                    </a>
+                </li>
+                <li class="navbar__logo">
+                    <a href="">
+                        <span class="icon-github"></span>
+                    </a>
+                </li>
+                <li class="navbar__logo">
+                    <a href="">
+                        <span class="icon-mail4"></span>
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
