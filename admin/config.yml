@@ -48,5 +48,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "blog", "home"]}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: "string"}
+      - {label: "Edit", name: "edit", widget: "hidden", default: "true"}
       - {label: "Banner Image", name: "image", widget: "hidden"}
       - {label: "Body", name: "body", widget: "markdown"}

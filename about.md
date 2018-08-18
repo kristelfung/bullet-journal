@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+order: 2
+edit: true
 image: /images/about.svg
 ---
 Hi people! I'm glad you found my site. I'm Kristel, a developer from Hong Kong. I am currently 18 years old, and I just graduated from Hong Kong International School. I am majoring in computer science at NYU's Tandon School of Engineering, hopefully graduating in 2022.
