@@ -34,6 +34,8 @@
 }
 
 .navbar__left {
+    max-width: 9rem; // so li doesnt stack
+
     ul {
         float: right;
     }
