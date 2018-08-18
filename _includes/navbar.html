@@ -1,16 +1,25 @@
-{% assign mypages = site.pages | sort: "order" %}
 <nav class="navbar">
-    <div class="container">
-        <ul>
-        {% for item in mypages %}
-            {% if item.title %}
-                <li>
-                    <a href="{{ item.url | relative_url }}">
-                        {{ item.title }}
-                    </a>
-                </li>
-            {% endif %}
-        {% endfor %}
-        </ul>
+    <div class="row container row--navbar">
+        <div class="column navbar-right">
+            {% assign mypages = site.pages | sort: "order" %}
+            <ul>
+                {% for item in mypages %}
+                    {% if item.title %}
+                        <li>
+                            <a href="{{ item.url | relative_url }}">
+                                {{ item.title }}
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="column navbar-left">
+            <ul>
+                <li onclick="showLinkedin();"><span class="icon-linkedin"></span></li>
+                <li><span class="icon-mail4"></span></li>
+                <li><span class="icon-github"></span></li>
+            </ul>
+        </div>
     </div>
 </nav>
