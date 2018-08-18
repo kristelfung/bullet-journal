@@ -3,7 +3,8 @@ layout: default
 ---
 <div class="container--small">
     <p class="back"><a href="/blog"> < Back to Posts</a></p>
-    <h1>{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h5 class="post-date">{{ page.date | date: "%B %-d, %Y" }}</h5>
     <img src="{{ page.coverphoto | relative_url }}" class="cover-image"/>
     {{ content }}
 </div>
