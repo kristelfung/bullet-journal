@@ -5,12 +5,12 @@ order: 2
 edit: true
 image: /images/about.svg
 ---
-Hi people! I'm glad you found my site. I'm Kristel, a developer from Hong Kong. I am currently 18 years old, and I just graduated from Hong Kong International School. I am majoring in computer science at NYU's Tandon School of Engineering, hopefully graduating in 2022.
+Hi people! I'm Kristel, a web developer from Hong Kong. I am currently 18 years old, and I just graduated from Hong Kong International School. I am majoring in computer science at NYU's Tandon School of Engineering, graduating in 2022.
 
-As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook and I really regret that decision because the paper is thinner than rice paper and the ink ghosts badly. I do not recommend. All my drawings on this site were done on scrap paper, taken a photo of then traced over in Adobe Illustrator. Which is kind of a lot of work, but I enjoy it and I had a lot of free time this summer.
+As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook but I really regret that decision because their paper is thinner than rice paper and the ink ghosts badly. I do not recommend. All my drawings on this site were done on scrap paper, taken a photo of then traced over in Adobe Illustrator. Which is kind of a lot of work, but I enjoy it and I had a lot of free time this summer.
 
 ![Writing](/images/uploads/writing.svg)
 
-I mostly do front-end work, but I can design as well. Be sure to hit up my email if you want to get in touch, I don't really check LinkedIn because I receive copious amounts of spam from people offering me "golden opportunities" and "excellent exposure". 
+I mostly do front-end work, but I can design as well. Be sure to hit up my email if you want to get in touch, I don't really check LinkedIn because I get a lot of spam there.
 
-And for anyone that is curious, this site was built with [Jekyll](https://jekyllrb.com/) and I am using [NetlifyCMS](https://www.netlifycms.org/) to manage my content.
+And for anyone that is curious, this site was built with [Jekyll](https://jekyllrb.com/). I am using [NetlifyCMS](https://www.netlifycms.org/) to manage my content - I highly recommend it, it was very easy to configure.
