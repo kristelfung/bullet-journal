@@ -13,4 +13,4 @@ As you can probably tell, I like drawing. I started bullet journalling my second
 
 I mostly do front-end work, but I can design as well. Be sure to hit up my email if you want to get in touch, I don't really check LinkedIn because I get a lot of spam there.
 
-And for anyone that is curious, this site was built with [Jekyll](https://jekyllrb.com/). I am using [NetlifyCMS](https://www.netlifycms.org/) to manage my content - I highly recommend it, it was very easy to configure.
+And for anyone that is curious, this site was built with [Jekyll](https://jekyllrb.com/) (code here on [Github](https://github.com/kristelfung/bullet-journal)). I am using [NetlifyCMS](https://www.netlifycms.org/) to manage my content - I highly recommend it, it was very easy to configure.
