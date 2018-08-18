@@ -5,7 +5,7 @@ image: /images/about.svg
 ---
 Hi people! I'm glad you found my site. I'm Kristel, a developer from Hong Kong. I am currently 18 years old, and I just graduated from Hong Kong International School. I am majoring in computer science at NYU's Tandon School of Engineering, hopefully graduating in 2022.
 
-As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I am using a Moleskine notebook and unfortunately I really regret that decision because Moleskine's paper is thinner than rice paper and the ink ghosts badly. All my drawings on this site were done on scrap paper, taken a photo of then traced over in Adobe Illustrator. Which is kind of a lot of work, but I enjoy it and I had a lot of free time this summer.
+As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook and I really regret that decision because the paper is thinner than rice paper and the ink ghosts badly. I do not recommend. All my drawings on this site were done on scrap paper, taken a photo of then traced over in Adobe Illustrator. Which is kind of a lot of work, but I enjoy it and I had a lot of free time this summer.
 
 ![Writing](/images/uploads/writing.svg)
 
