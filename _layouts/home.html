@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-<div class="container">
-    <div class="center hero">
-        {{ content }}
-    </div>
-    <object id="my-svg" type="image/svg+xml" data="{{ "/images/hk-skyline.svg" | relative_url }}">
-        <img src="{{ "/images/hk-skyline.png" | relative_url }}"/>
-    </object>
+<div class="center hero">
+    {{ content }}
 </div>
+<object id="my-svg" type="image/svg+xml" data="{{ "/images/hk-skyline.svg" | relative_url }}">
+    <img src="{{ "/images/hk-skyline.png" | relative_url }}"/>
+</object>
 {%- include scripts.html -%}

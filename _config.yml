@@ -19,7 +19,7 @@ compress_html:
 
 # Jekyll
 permalink: /blog/:title/
-include: _redirects
+include: [_redirects]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal.gemspec', 'TODO']
 collections: 
   projects:
