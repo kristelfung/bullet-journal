@@ -4,10 +4,12 @@ title: HKIS Dragons
 date_created: '2016'
 tools:
   - HTML/CSS
+  - SASS
   - Bulma
   - Jekyll
 thumbnail: /images/uploads/hkisdragons.png
 link: 'https://www.hkisdragons.com/'
 github: 'https://github.com/kristelfung/hkisdragons'
 ---
-dasfsd
+* Sports website for high school containing media of tournaments
+* Designed and developed with Jekyll, integrated with Siteleaf CMS
