@@ -1,3 +1,7 @@
+.row--project {
+    margin: 2rem 0rem;
+}
+
 .column--project-thumbnail {
     flex: 40%;
     border: 0.1rem solid black;
@@ -8,7 +12,7 @@
 
 .column--project-desc {
     flex: 60%;
-    padding: 1rem;
+    padding: 1rem 1.5rem;
     border-top: 0.1rem solid black;
     border-bottom: 0.1rem solid black;
     border-right: 0.1rem solid black;

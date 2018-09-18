@@ -12,5 +12,5 @@ thumbnail: /images/uploads/hkisdragons.png
 link: 'https://www.hkisdragons.com/'
 github: 'https://github.com/kristelfung/hkisdragons'
 ---
-* Sports website for high school containing media of tournaments
+* Sports website for high school
 * Designed and developed with Jekyll, integrated with Siteleaf CMS
