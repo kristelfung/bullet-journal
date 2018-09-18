@@ -4,7 +4,8 @@ layout: default
 {%- include banner.html -%}
 <div class="container--small">
     <ul class="post-collection">
-    {% for project in site.projects %}
+    {% assign sorted = (site.projects | sort: 'date_created') | reverse %}
+    {% for project in sorted %}
       <li class="post-item">
         <div class="row">
             <div class="column column--project-thumbnail" style="background-image: url({{ project.thumbnail | relative_url }})">
