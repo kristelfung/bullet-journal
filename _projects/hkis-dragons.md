@@ -4,6 +4,7 @@ title: HKIS Dragons
 date_created: '2016'
 tools:
   - HTML/CSS
+  - JavaScript
   - SASS
   - Bulma
   - Jekyll
