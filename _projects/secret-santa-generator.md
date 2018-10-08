@@ -3,7 +3,7 @@ published: 'false'
 title: Secret Santa Generator
 date_created: '2018'
 tools:
-  - React.js
+  - React
   - SASS
 thumbnail: /images/uploads/secret-santa.png
 github: 'https://github.com/kristelfung/secret-santa'
