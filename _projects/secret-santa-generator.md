@@ -6,6 +6,7 @@ tools:
   - React
   - SASS
 thumbnail: /images/uploads/secret-santa.png
+link: 'https://linksecretsanta.netlify.com/'
 github: 'https://github.com/kristelfung/secret-santa'
 ---
 * Secret Santa generator using links (no backend)
