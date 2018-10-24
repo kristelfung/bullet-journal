@@ -1,7 +1,7 @@
 ---
 published: 'false'
 title: Secret Santa Generator
-date_created: Oct 2018
+date_created: October 2018
 tools:
   - React
   - SASS
