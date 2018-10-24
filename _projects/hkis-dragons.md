@@ -1,7 +1,7 @@
 ---
 published: 'false'
 title: HKIS Dragons
-date_created: '2017'
+date_created: July 2017
 tools:
   - HTML/CSS
   - SASS
