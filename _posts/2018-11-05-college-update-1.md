@@ -6,7 +6,7 @@ category: Personal
 thumbnail: /images/uploads/books-pencil-apple.svg
 coverphoto: /images/uploads/studying.svg
 ---
-Here is the first post in my series of college updates. 
+Here is the first post in my series of college updates. Sorry for the long wait to all my readers out there, school work is really on my butt right now and there's always so much to do.
 
 The dining hall food here is destroying my body. I have never eaten so much garbage in my life, despite actively trying to seek out avocados and fruit and spinach. The food has more oil in it than the countries in the Middle East combined. Cooking my own food is no longer an option because for some reason it takes 3 hours to make one bowl of pasta and it takes another hour to clean up. And for some reason we always forget an ingredient or utensil or pan and we end up travelling 10 times up to 3 different dorm rooms and back downstairs to the kitchen to get what we need. And once we’re done cooking, five of your friends show up downstairs and you end up talking to them for 2 hours and suddenly it’s 2 AM and you realized you haven’t started your essay for writing class and you stay up until 4 trying to finish it but then you check your schedule and you don’t even freaking have writing then next day and life is not good. Fun fact: I tried pouring pasta noodles into the pot but completely missed it, because raw pasta does not bend.
 
