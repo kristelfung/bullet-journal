@@ -41,11 +41,11 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
   - name: "resume"
     label: "Resume"
-    widget: "file"
-    default: "/assets/files/kristel-fung-resume.pdf"
-    media_library:
-      config:
-        multiple: false
+    folder: "assets/files"
+    editor: 
+      preview: false
+    fields:
+      - {label: "Resume", name: "resume", widget: "file"}
   - name: "page"
     label: "Pages"
     folder: "/" 
