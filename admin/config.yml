@@ -39,14 +39,6 @@ collections:
       - {label: "Published", name: "published", widget: "hidden", default: "false"}
       - {label: "Skill Name", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-  - name: "resume"
-    label: "Resume"
-    folder: "assets/files"
-    create: false
-    editor: 
-      preview: false
-    fields:
-      - {label: "Resume", name: "resume", widget: "file", default: "/assets/files/kristel-fung-resume.pdf"}
   - name: "page"
     label: "Pages"
     folder: "/" 
