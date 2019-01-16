@@ -42,10 +42,11 @@ collections:
   - name: "resume"
     label: "Resume"
     folder: "assets/files"
+    create: false
     editor: 
       preview: false
     fields:
-      - {label: "Resume", name: "resume", widget: "file"}
+      - {label: "Resume", name: "resume", widget: "file", default: "/assets/files/kristel-fung-resume.pdf"}
   - name: "page"
     label: "Pages"
     folder: "/" 
