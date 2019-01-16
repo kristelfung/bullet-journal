@@ -7,6 +7,7 @@ description: > # this means to ignore newlines after this
 # social links
 github_username:  kristelfung
 linkedin_username: kristel-fung-4ba37635
+behance_username: kristelfun87de
 
 sass:
     style: compressed # we want our css minified
