@@ -1,5 +1,6 @@
 .row--banner {
     align-items: center;
+    padding: 1rem 0rem;
 
     p {
         margin: 0;
@@ -8,4 +9,13 @@
 
 .banner-image {
     max-height: 10rem;
+}
+
+.column--first {
+    order: 1;
+    margin: 1rem 0rem;
+}
+
+.column--second {
+    order: 2
 }

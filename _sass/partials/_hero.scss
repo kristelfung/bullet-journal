@@ -1,3 +1,19 @@
 .hero {
     margin-bottom: 3rem;
 }
+
+@media screen and (max-width: $mobile-max) {
+    .hero {
+        margin-top: 1rem;
+    }
+
+    .desktop {
+        display: none;
+    }
+}
+
+@media screen and (min-width: $mobile-max) {
+    .mobile {
+        display: none;
+    }
+}

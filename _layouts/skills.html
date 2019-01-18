@@ -7,7 +7,7 @@ layout: default
     {% assign rows = myskills.size | divided_by: 3.0 | ceil %}
     {% for i in (1..rows) %}
     {% assign offset = forloop.index0 | times: 3 %}
-    <div class="row row--skill">
+    <div class="row">
         {% for skill in myskills limit:3 offset:offset %}
         <div class="column column--skill">
             <img src="{{ skill.image | relative_url }}">

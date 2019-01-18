@@ -7,7 +7,7 @@ layout: default
     {% assign sorted = (site.projects | sort: 'date_created') | reverse %}
     {% for project in sorted %}
       <li class="post-item">
-        <div class="row">
+        <div class="row row--project">
             <div class="column column--project-thumbnail" style="background-image: url({{ project.thumbnail | relative_url }})">
             </div>
             <div class="column column--project-desc">

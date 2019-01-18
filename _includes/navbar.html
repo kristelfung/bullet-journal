@@ -1,47 +1,31 @@
 <nav class="navbar">
-    <div class="row container row--navbar">
-        <div class="column navbar__right">
-            {% assign mypages = site.pages | sort: "order" %}
-            <ul>
-                {% for item in mypages %}
-                    {% if item.title %}
-                        <li>
-                            <a href="{{ item.url | relative_url }}">
-                                {{ item.title }}
-                            </a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
+    <div class="container row row--navbar">
         <div class="column navbar__left">
-            <ul>
-                <li class="navbar__logo">
-                    <a href="/assets/files/kristel-fung-resume.pdf">
-                        <span class="icon-cv"></span>
+            {% assign mypages = site.pages | sort: "order" %}
+            {% for item in mypages %}
+                {% if item.title %}
+                    <a href="{{ item.url | relative_url }}">
+                        {{ item.title }}
                     </a>
-                </li>
-                <li class="navbar__logo">
-                    <a href="https://www.behance.net/{{site.behance_username}}/">
-                        <span class="icon-behance2"></span>
-                    </a>
-                </li>
-                <li class="navbar__logo">
-                    <a href="https://www.linkedin.com/in/{{site.linkedin_username}}/">
-                        <span class="icon-linkedin2"></span>
-                    </a>
-                </li>
-                <li class="navbar__logo">
-                    <a href="https://github.com/{{site.github_username}}/">
-                        <span class="icon-github"></span>
-                    </a>
-                </li>
-                <li class="navbar__logo">
-                    <a href="mailto:{{site.email}}">
-                        <span class="icon-mail4"></span>
-                    </a>
-                </li>
-            </ul>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="column navbar__right">
+            <a href="/assets/files/kristel-fung-resume.pdf">
+                <span class="icon-cv"></span>
+            </a>
+            <a href="https://www.linkedin.com/in/{{site.linkedin_username}}/">
+                <span class="icon-linkedin2"></span>
+            </a>
+            <a href="https://www.behance.net/{{site.behance_username}}/">
+                <span class="icon-behance2"></span>
+            </a>
+            <a href="https://github.com/{{site.github_username}}/">
+                <span class="icon-github"></span>
+            </a>
+            <a href="mailto:{{site.email}}">
+                <span class="icon-mail4"></span>
+            </a>
         </div>
     </div>
 </nav>

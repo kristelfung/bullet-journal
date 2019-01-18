@@ -1,19 +1,43 @@
 .column--project-thumbnail {
     flex: 40%;
-    border: 0.1rem solid black;
-    border-top-left-radius: 0.5rem;
-    border-bottom-left-radius: 0.5rem;
     background-size: cover;
+    min-height: 15rem;
 }
 
 .column--project-desc {
     flex: 60%;
     padding: 1rem 1.5rem;
-    border-top: 0.1rem solid black;
-    border-bottom: 0.1rem solid black;
-    border-right: 0.1rem solid black;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
+}
+
+// desktop styles
+@media screen and (min-width: $mobile-min) {
+    .column--project-thumbnail {
+        border: 0.1rem solid black;
+        border-top-left-radius: 0.5rem;
+        border-bottom-left-radius: 0.5rem;
+    }
+
+    .column--project-desc {
+        border-top: 0.1rem solid black;
+        border-bottom: 0.1rem solid black;
+        border-right: 0.1rem solid black;
+    }
+}
+
+// mobile
+@media screen and (max-width: $mobile-max) {
+    .row--project {
+        border: 0.1rem solid black;
+        border-radius: 0.5rem;
+    }
+
+    .column--project-thumbnail {
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        border-bottom: 0.1rem solid black;
+    }
 }
 
 .tool-label {

@@ -4,7 +4,14 @@ layout: default
 <div class="center hero">
     {{ content }}
 </div>
-<object id="my-svg" type="image/svg+xml" data="{{ "/images/hk-skyline.svg" | relative_url }}">
-    <img src="{{ "/images/hk-skyline.png" | relative_url }}"/>
-</object>
+<div class="desktop">
+    <object id="my-svg" type="image/svg+xml" data="{{ "/images/hk-skyline.svg" | relative_url }}">
+        <img src="{{ "/images/hk-skyline.png" | relative_url }}" />
+    </object>
+</div>
+<div class="mobile">
+    <object id="my-svg-mobile" type="image/svg+xml" data="{{ "/images/hk-skyline-mobile.svg" | relative_url }}">
+        <img src="{{ "/images/hk-skyline-mobile.png" | relative_url }}" />
+    </object>
+</div>
 {%- include scripts.html -%}

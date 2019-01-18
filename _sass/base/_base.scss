@@ -127,12 +127,15 @@ ul, ol {
     list-style-position: outside;
 }
 
-.row {
-    display: flex;
+@media screen and (min-width: $mobile-min) {
+    .row {
+        display: flex;
+    }
 }
 
 .column {
     flex-basis: 0;
     flex-grow: 1;
     flex-shrink: 1;
+    display: block;
 }

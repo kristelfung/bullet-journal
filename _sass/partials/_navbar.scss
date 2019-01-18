@@ -1,29 +1,9 @@
-.row--navbar {
-    align-items: center;
-}
-
 .navbar {
-    padding: 1.6rem 0rem;
+    padding: 1rem 0rem;
 
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-    }
-
-    li {
-        float: left;
-        text-transform: uppercase;
-    }
-}
-
-.navbar__right {
-    li a {
-        text-decoration: none;
-        display: block;
-        padding-right: 2rem;
+    a {
         color: black;
+        text-decoration: none;
     }
     a:visited {
         color: black;
@@ -33,16 +13,31 @@
     }
 }
 
+.row--navbar {
+    align-items: stretch;
+}
+
 .navbar__left {
-    max-width: 15rem; // so li doesnt stack
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    display: flex; // only desktop
+    align-items: center;
+    justify-content: flex-start;
 
-    ul {
-        float: right;
+    a {
+        margin: 0.75rem;
     }
+}
 
-    li {
-        margin-left: 1rem;
-        font-size: 2rem;
+.navbar__right {
+    font-size: 2rem;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    a {
+        margin: 0.5rem;
     }
 }
 
@@ -54,5 +49,28 @@
 
     a:hover {
         color: lighten(black, 60%);
+    }
+}
+
+// mobile tweaks
+@media screen and (max-width: $mobile-max) {
+    .navbar {
+        padding: 0;
+    }
+
+    .navbar__left {
+        justify-content: center;
+
+        a:nth-child(1) {
+            margin-left: 0.75rem;
+        }
+    }
+
+    .navbar__right {
+        justify-content: center;
+
+        a:nth-last-child(1) {
+            margin-right: 0.5rem;
+        }
     }
 }
