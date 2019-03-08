@@ -4,7 +4,7 @@ layout: default
 {%- include banner.html -%}
 <div class="container--small">
     <ul class="post-collection">
-    {% assign sorted = (site.projects | sort: 'date_created') | reverse %}
+    {% assign sorted = (site.projects | sort: 'date_created') %}
     {% for project in sorted %}
       <li class="post-item">
         <div class="row row--project">
