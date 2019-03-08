@@ -39,7 +39,7 @@ collections:
       - {label: "Published", name: "published", widget: "hidden", default: "false"}
       - {label: "Skill Name", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Order", name: "order", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}
   - name: "page"
     label: "Pages"
     folder: "/" 
