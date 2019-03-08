@@ -12,4 +12,4 @@ link: 'https://hacknyu.org/'
 github: 'https://github.com/hacknyu/website'
 ---
 * Web application to handle NYU's hackathon registration
-* Worked on team of primarily 5 developers to develop and design HackNYU website using TypeScript with React, Redux, JSS
+* Worked on team of primarily 5 to develop and design HackNYU website
