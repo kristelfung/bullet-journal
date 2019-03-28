@@ -6,7 +6,7 @@ tools:
   - React
   - SASS
 thumbnail: /images/uploads/mlhsearch.jpg
-link: 'https://mlh-search.herokuapp.com/'
+link: 'https://mlhsearch.netlify.com/'
 github: 'https://github.com/kristelfung/mlh-search'
 ---
 * Search tool for Major League Hacking 2018 hackathons
