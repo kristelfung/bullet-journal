@@ -5,7 +5,7 @@ order: 2
 edit: true
 image: /images/about.svg
 ---
-Hi people! I'm Kristel. I am currently 18 years old, and I just graduated from Hong Kong International School. I am majoring in computer science at NYU's Tandon School of Engineering, graduating in 2022 (or maybe 2021, still deciding).
+Hi people! I'm Kristel. I am currently 18 years old, and I just graduated from Hong Kong International School. I am majoring in computer science and math at New York University, graduating in 2022.
 
 As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook but I really regret that decision because their paper is thinner than rice paper and the ink ghosts badly. I do not recommend. All my drawings on this site were done on scrap paper, taken a photo of then traced over in Adobe Illustrator. Which is kind of a lot of work, but I enjoy it and I had a lot of free time this summer.
 
