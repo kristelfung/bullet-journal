@@ -27,6 +27,6 @@ My third point is related to the second point. I feel like my hair is thinning d
 
 Finally. New York is a dry place. The air is dryer than the rice at the dining hall. Therefore I bought a Burts Bees chapstick.
 
-What a big freaking mistake. I applied Burts Bees almost every 10 minutes and while it seemed to make my lips slightly softer, THEY STILL FELT PAINFULLY DRY. In fact, it felt like my lips were just covered in candle wax, as if it was INSUlATING whatever moisture my lips had left instead of providing more. What a scam! In fact, upon more reflection, the only thing Burts Bees is good at is gluing the flakes of my dead lip skin back to my lips. Really would not recommend. I am using Kiehl’s right now and I feel much better.
+What a big freaking mistake. I applied Burts Bees almost every 10 minutes and while it seemed to make my lips slightly softer, THEY STILL FELT PAINFULLY DRY. In fact, it felt like my lips were just covered in candle wax, as if it was INSULATING whatever moisture my lips had left instead of providing more. What a scam! In fact, upon more reflection, the only thing Burts Bees is good at is gluing the flakes of my dead lip skin back to my lips. Really would not recommend. I am using Kiehl’s right now and I feel much better.
 
 This concludes my first semester. I’m considering creating a mailing list to send updates whenever a new post comes out. For educational purposes of course. If you want this feature email me at kristelfung@gmail.com!
