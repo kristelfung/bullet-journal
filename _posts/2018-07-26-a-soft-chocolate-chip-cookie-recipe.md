@@ -10,7 +10,7 @@ I am off to college soon, leaving August 23. With all this extra time in the sum
 
 Something I really wanted to learn how to make was chocolate chip cookies. Not that I would be eating cookies everyday of course, but I decided it would be a good start. The first time I created them this summer was last Saturday at 2:00 AM, but they all turned out hard as rocks. I almost threw all of them away but instead I made my dad eat them. After this, I embarked on my journey to create the perfect chocolate chip cookie. I decided to use a modified version of Tasty’s “The Best Chocolate Chip Cookies” (I used less granulated sugar).
 
-I walked into the kitchen only to see my brother SUBMERGING A RAW FROZEN STEAK INTO WARM WATER WITHOUT ANY PLASTIC PACKAGING. I was horrified and I almost screamed out loud. I am no professional, but having watched an entire season of Masterchef I am pretty sure you aren’t supposed to waterlog your steaks before frying them. Anyway…none of my business. 
+I walked into the kitchen only to see my brother SUBMERGING A RAW FROZEN STEAK INTO WARM WATER WITHOUT ANY PLASTIC PACKAGING...I was horrified and I almost screamed out loud. I am no professional, but having watched an entire season of Masterchef I am pretty sure you aren’t supposed to waterlog your steaks before frying them. Anyway…none of my business. 
 
 ![Steak in water](/images/uploads/steak.svg)
 
