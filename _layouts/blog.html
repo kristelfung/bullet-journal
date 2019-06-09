@@ -6,7 +6,7 @@ layout: default
   <ul class="post-collection">
     {% assign sorted = (site.posts | sort: 'date') | reverse %}
     {% for post in sorted %}
-      <li class="post-item post-item--full-outline">
+      <li class="post-item">
         <a href="{{ post.url }}" class="blog-link">
         <div class="row row--posts">
           <div class="column column--blog-title">
