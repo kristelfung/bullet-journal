@@ -26,7 +26,6 @@ collections:
       - {label: "Project Title", name: "title", widget: "string"}
       - {label: "Date Created", name: "date_created", widget: "string"}
       - {label: "Technolgoies Used", name: "tools", widget: "list"}
-      - {label: "Preview Image", name: "thumbnail", widget: "image"}
       - {label: "Description", name: "body", widget: "markdown"}
       - {label: "Website Link", name: "link", widget: "string", required: false}
       - {label: "Github Link", name: "github", widget: "string", required: false}
