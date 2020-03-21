@@ -6,7 +6,7 @@ tools:
   - React
   - SASS
   - Contentful
-link: collegecook.io
+link: 'https://collegecook.io'
 ---
 * College-student friendly recipes
 * Content provided with API fetch from headless CMS
