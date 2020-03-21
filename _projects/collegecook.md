@@ -5,7 +5,6 @@ date_created: March 2020
 tools:
   - React
   - SASS
-  - Firebase
 link: 'https://collegecook.io'
 ---
 * College-student friendly recipes
