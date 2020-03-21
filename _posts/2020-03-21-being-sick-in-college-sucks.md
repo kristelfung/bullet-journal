@@ -16,6 +16,6 @@ After 45 minute of incremental naps sprinkled with bouts of moaning (sorry Hosan
 
 ![nyu health center image](/images/uploads/hospital.svg "NYU Health Center")
 
-The beautiful sexy amazing NYU bus dropped me off in front of the health center, and I entered. After being led around the health center like a clueless Sims character, I was promptly offered service. It seemed serious because I was forced to stay for 1.5 hours until my temperature went down. I was also forced to drink water until I felt pregnant because apparently I was rather dehydrated, and finally offered penicillin.
+The beautiful sexy amazing NYU bus dropped me off in front of the health center, and I entered. After being led around like a clueless Sims character, I was promptly offered service. It seemed serious because I was forced to stay for 1.5 hours until my temperature went down. I was also forced to drink water until I felt pregnant because apparently I was rather dehydrated, and finally offered penicillin.
 
 Fast forward 3 days later I was feeling 10 times better. Along with the penicillin I was told to eat yoghurt, as it was rich in probiotics, and I discovered a wondrous side effect of the yoghurt: exceptionally smooth bowel movements. Consumption of Greek yoghurt became a tradition, and the last couple of weeks have been smooth sailing, to say the least.
