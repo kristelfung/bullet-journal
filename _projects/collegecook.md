@@ -7,5 +7,5 @@ tools:
   - SASS
 link: 'https://collegecook.io'
 ---
-* College-student friendly recipes
+* College-friendly recipes
 * Content provided with API fetch from headless CMS
