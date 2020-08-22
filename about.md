@@ -9,7 +9,7 @@ Hi people! I'm Kristel. I am currently 19 years old, and I am a sophomore majori
 
 As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook but I really regret that decision because their paper is thinner than rice paper and the ink ghosts badly. I do not recommend. All my drawings on this site were done on scrap paper, taken a photo of then traced over in Adobe Illustrator. Which is kind of a lot of work, but I enjoy it and I had a lot of free time this summer.
 
-![Writing](/images/uploads/writing.svg)
+![Writing](/images/uploads/writing.png)
 
 I mostly do front-end work, but I can design as well. Be sure to hit up my email if you want to get in touch, I don't really check LinkedIn because I get a lot of spam there.
 
