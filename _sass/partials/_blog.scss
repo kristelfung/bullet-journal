@@ -41,6 +41,10 @@
     font-weight: bold;
 }
 
+.container--small img {
+  max-width: 100%;
+}
+
 .Story {
     background-color: $tag-green;
 }
