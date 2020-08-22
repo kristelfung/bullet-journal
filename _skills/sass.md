@@ -1,7 +1,6 @@
 ---
-published: 'false'
+published: "false"
 title: SASS
-image: /images/uploads/sass.svg
+image: /images/uploads/sass.png
 order: 5
 ---
-
