@@ -1,7 +1,6 @@
 ---
-published: 'false'
+published: "false"
 title: React
-image: /images/uploads/react.svg
+image: /images/uploads/react.png
 order: 4
 ---
-
