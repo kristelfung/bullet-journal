@@ -1,6 +1,6 @@
 ---
 title: Projects
-image: /images/projects.svg
+image: /images/projects.png
 order: 3
 layout: projects 
 ---

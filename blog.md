@@ -1,6 +1,6 @@
 ---
 title: Blog
-image: /images/blog.svg
+image: /images/blog.png
 order: 5
 layout: blog
 ---
