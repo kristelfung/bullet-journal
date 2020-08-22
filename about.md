@@ -3,7 +3,7 @@ layout: page
 title: About
 order: 2
 edit: true
-image: /images/about.svg
+image: /images/about.png
 ---
 Hi people! I'm Kristel. I am currently 19 years old, and I am a sophomore majoring in computer science at the University of California, Berkeley, graduating in 2023.
 
