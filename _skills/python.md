@@ -1,7 +1,6 @@
 ---
-published: 'false'
+published: "false"
 title: Python
-image: /images/uploads/python.svg
+image: /images/uploads/python.png
 order: 6
 ---
-
