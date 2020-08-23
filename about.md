@@ -7,7 +7,9 @@ image: /images/about.png
 ---
 Hi people! I'm Kristel. I am currently 19 years old, and I am a sophomore majoring in computer science at the University of California, Berkeley, graduating in 2023.
 
-As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook but I really regret that decision because their paper is thinner than rice paper and the ink ghosts badly. I do not recommend. All my drawings on this site were done on Procreate!
+As you can probably tell, I like drawing. I started bullet journalling my second semester of senior year, and I thoroughly enjoyed it! I bought a Moleskine notebook but I really regret that decision because their paper is thinner than rice paper and the ink ghosts badly. I do not recommend. 
+
+All my drawings on this site were done on Procreate. You may be wondering, Kristel, why are you bald and hairless? Well, the answer is, I do not know how to draw hair without making it look weird. So this representation of myself will have to do.
 
 ![Writing](/images/uploads/writing.png)
 
