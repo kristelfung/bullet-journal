@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'College update #1'
+title: "College update #1"
 date: 2018-11-05T05:18:07.924Z
 category: Personal
-thumbnail: /images/uploads/books-pencil-apple.svg
+thumbnail: /images/uploads/books.png
 coverphoto: /images/uploads/studying.svg
 ---
 Here is the first post in my series of college updates. Sorry for the long wait to all my readers out there, school work is really on my butt right now and there's always so much to do.
