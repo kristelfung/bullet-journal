@@ -4,7 +4,7 @@ title: "College Update #2"
 date: 2019-01-19T15:20:20.406Z
 category: Personal
 thumbnail: /images/uploads/drano.png
-coverphoto: /images/uploads/plane.svg
+coverphoto: /images/uploads/plane.png
 ---
 Hello people! I am home. I am also excited to announce that I created a proper mobile version of the site.
 
@@ -21,7 +21,7 @@ Ok, first thing. I use day contacts which are supposed to only last one day. But
 
 Second point. At the beginning of November our shower drain began experiencing difficulties. It drained the water slowly and began accumulating hairballs. By mid-November I was basically showering in a kiddie pool. Within a minute of showering, my shower flip flops were rendered useless because the floor would be submerged in 5 inches of water. I decided we shouldn’t shower in a swamp anymore, so I bought some Drano to clear the blockage. We’ve used up 2 bottles already and the water is going down smoothly so far! 
 
-![Drano and shower](/images/uploads/drano.svg)
+![drano](/images/uploads/dranoshower.png)
 
 My third point is related to the second point. I feel like my hair is thinning due to stress, thus it is all going down the shower drain and clogging it. I am balding at 18 which is sad. If this trend continues, I will have no hair by the time I am 25. If anyone has any suggestions on how to fix this I am happy to listen.
 
