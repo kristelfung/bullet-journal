@@ -3,7 +3,7 @@ layout: post
 title: Being sick in college sucks
 date: 2020-03-21T21:55:05.539Z
 category: Story
-thumbnail: /images/uploads/pills.svg
+thumbnail: /images/uploads/advil.png
 coverphoto: /images/uploads/sick-cover.svg
 ---
 It all started Saturday night. I noticed I was slightly feverish, but I decided it was simply because we nearly froze to death at Galantis (a music concert), and I had the flu or whatever. Ok, this shall pass, I told myself. It did not. The next three days I developed cold sweats and a pounding headache.
