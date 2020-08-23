@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'College Update #2'
+title: "College Update #2"
 date: 2019-01-19T15:20:20.406Z
 category: Personal
-thumbnail: /images/uploads/drano-bottle.svg
+thumbnail: /images/uploads/drano.png
 coverphoto: /images/uploads/plane.svg
 ---
 Hello people! I am home. I am also excited to announce that I created a proper mobile version of the site.
