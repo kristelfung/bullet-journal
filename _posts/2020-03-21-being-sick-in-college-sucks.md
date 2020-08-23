@@ -14,7 +14,7 @@ I actually could not bring myself to leave the bed on Monday, so in conclusion, 
 
 After 45 minute of incremental naps sprinkled with bouts of moaning (sorry Hosanna, my dear roommate), 11:45 am rolled around. I remained in my bed of sickness, marinating in a pool of sweat. No. I was stronger than this silly virus. I will rise. I pulled myself up, a sheen of sweat covering my forehead. Clambering out into the streets, I walked what felt like the length of the Boston marathon to reach the bus stop, and boarded the NYU shuttle. Of course, I tried to act as healthy as possible. With the unfortunate outbreak of COVID-19 in combination with my ethnicity, tensions ran high and I did not want to get jumped and beaten.
 
-![nyu health center image](/images/uploads/hospital.svg "NYU Health Center")
+![nyu health center image](/images/uploads/sick.png "NYU Health Center")
 
 The beautiful sexy amazing NYU bus dropped me off in front of the health center, and I entered. After being led around like a clueless Sims character, I was promptly offered service. It seemed serious because I was forced to stay for 1.5 hours until my temperature went down. I was also forced to drink water until I felt pregnant because apparently I was rather dehydrated, and finally offered penicillin.
 
