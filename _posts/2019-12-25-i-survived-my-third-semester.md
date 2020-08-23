@@ -8,7 +8,7 @@ coverphoto: /images/uploads/cookies.svg
 ---
 The first half of sophomore year was quite eventful. Classes got exponentially harder, I had infinitely more breakdowns than my previous two semesters combined. But the most significant takeaway is that my eating is out. of. control.
 
-Let us start from the beginning. Over the summer, I was like hm, perhaps let’s try being skinny. I hit the gym super hard and began eating very healthy food, such as leaves and chicken breasts (except for the occasional Chinatown egg tart hee hee ha ha). I successfully dropped 10 pounds. I was super lean and strong, squatting 5 reps of 95 lbs!
+Let us start from the beginning. Over the summer, I was like hm, perhaps let’s try being skinny. I hit the gym super hard and began eating very healthy food, such as leaves and chicken breasts (except for the occasional Chinatown egg tart hee hee ha ha). I successfully dropped 10 pounds! I was super lean and strong, squatting 5 reps of 95 lbs!
 
 But once the school year started, poop hit the fan, as they say. The first two months were admittedly ok. With the addition of our kitchen, I could continue cooking my succulent chicken breasts and various leaves. Of course, it was tough. It is college after all and we had limited cooking supplies—I once had to use scotch tape to cover my leftover egg whites resting in a plastic red solo cup. My suitemates may call me disgusting, but I think it is simply engineering. Unfortunately, my cooking hobbies proved to be unsustainable; suddenly, I had no idea what was happening in math class #1 and math class #2, and panic ensued.
 
