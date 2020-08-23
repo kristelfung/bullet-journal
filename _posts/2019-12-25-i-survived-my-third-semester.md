@@ -3,7 +3,7 @@ layout: post
 title: I survived my third semester
 date: 2019-12-25T06:46:22.066Z
 category: Personal
-thumbnail: /images/uploads/insomnia.svg
+thumbnail: /images/uploads/insomnia.png
 coverphoto: /images/uploads/cookies.svg
 ---
 The first half of sophomore year was quite eventful. Classes got exponentially harder, I had infinitely more breakdowns than my previous two semesters combined. But the most significant takeaway is that my eating is out. of. control.
