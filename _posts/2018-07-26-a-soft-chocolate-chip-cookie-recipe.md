@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A soft chocolate chip cookie recipe
-date: '2018-07-26T17:41:56+08:00'
+date: 2018-07-26T17:41:56+08:00
 category: Story
-thumbnail: /images/uploads/cookies-milk.svg
+thumbnail: /images/uploads/milkandcookies.png
 coverphoto: /images/uploads/ingredients.svg
 ---
 I am off to college soon, leaving August 23. With all this extra time in the summer (since I did not get a job this year), I decided it would be an excellent opportunity to learn how to cook, because I did not want to destroy my body with cup noodles in freshman year. 
