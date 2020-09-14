@@ -2,7 +2,7 @@ title: Kristel Fung
 author: Kristel Fung
 email: kristelfung@gmail.com
 description: > # this means to ignore newlines after this
-  Kristel's website! Portfolio containing my resume, projects, and a semi-active blog.
+  Kristel's website featuring a stunning and semi-active blog.
 
 # social links
 github_username: kristelfung
@@ -22,8 +22,6 @@ compress_html:
 permalink: /blog/:title/
 include: [_redirects]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'bullet-journal.gemspec', 'TODO']
-collections: 
-  projects:
-    output: true
+collections:
   skills:
     output: true

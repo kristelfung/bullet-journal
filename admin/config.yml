@@ -16,19 +16,6 @@ collections:
       - {label: "Thumbnail", name: "thumbnail", widget: "image"}
       - {label: "Cover Photo", name: "coverphoto", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "projects"
-    label: "Projects"
-    folder: "_projects"
-    create: true
-    slug: "{{slug}}"
-    fields: 
-      - {label: "Published", name: "published", widget: "hidden", default: "false"}
-      - {label: "Project Title", name: "title", widget: "string"}
-      - {label: "Date Created", name: "date_created", widget: "string"}
-      - {label: "Technolgoies Used", name: "tools", widget: "list"}
-      - {label: "Description", name: "body", widget: "markdown"}
-      - {label: "Website Link", name: "link", widget: "string", required: false}
-      - {label: "Github Link", name: "github", widget: "string", required: false}
   - name: "skills"
     label: "Skills"
     folder: "_skills"
