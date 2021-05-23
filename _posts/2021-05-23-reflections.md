@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections
+title: Reflections of a transfer
 date: 2021-05-23T06:41:58.820Z
 category: Personal
 thumbnail: /images/uploads/campanile.png
