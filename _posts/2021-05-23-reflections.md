@@ -1,0 +1,21 @@
+---
+layout: post
+title: Reflections
+date: 2021-05-23T06:41:58.820Z
+category: Personal
+thumbnail: /images/uploads/campanile.png
+coverphoto: /images/uploads/sather.png
+---
+A friend once told me, “a lot of what’s worth doing in this world is difficult, and that’s a part of what makes it worth doing.” 
+
+I think I really only understood what that meant when I came to Berkeley. Transferring was the hardest but best decision I ever made. Call me dramatic, but it’s difficult to explain how it feels to leave a life you’ve built for yourself for the past two years. And as unpleasant and as unsatisfying my past life may have been, it took a lot of courage to take that leap of faith and start over. I think it’s easy to be comfortable—it’s easy to convince yourself that your current situation is “alright”, because it’s natural to be scared of change. Especially when for me, that change meant entering a school that had a reputation for being competitive in every way possible.
+
+Coming here was incredibly uncomfortable and super damn stressful. As a second semester sophomore, I knew I didn’t have a lot of time to get the social aspects of my college experience right, so the pressure was really on. But growth doesn’t come from a place of comfort, so I never regretted any of it. So I guess, here are a couple of thoughts I wanted to write but only recently been able to put into words.
+
+First, I wish I hadn’t doubted myself so much. In my mind, entering Berkeley was akin to me being thrown to the wolves. I was scared I wasn’t going to make friends, scared I would fail my classes, and scared I wouldn’t get into any student clubs. Things have definitely been hard, but in hindsight, I realize I really thrived here. Sometimes my fear of failure has prevented me from stepping up and taking chances, and that is one of the few things I regret. 
+
+Secondly, I realize nothing really compares to the satisfaction of achievement. When I had finally crossed into my professional fraternity and was admitted to a huge community of friends to enjoy my new life at Berkeley with, I think I almost cried. It was a mixture of relief, pride, and adrenaline. I felt this a few times. First was getting into Berkeley, which was probably when this feeling was the strongest. That is the first moment I realized none of my sacrifices with regards to my friends and time were made in vain. Second was when I received a bid for my professional fraternity. That’s when I jumped over the final hurdle, when I knew I had found a community. And the third is when I crossed. That was the moment I realized that after all the risks I took, the investments I made into coming here, and the time I poured into bettering myself and my situation, everything paid off and I had achieved everything I wanted. All the pieces fell into place and there was no more uncertainty, no need to wonder if my situation here would be worse off than before. 
+
+The road was really difficult, but I’m the happiest I’ve ever been. I don’t really know how else to describe it other than the opposite of loneliness. It’s the small things, like memories of running errands on campus and running into a bro, and the whole day evolves into an impromptu trip with other bros to San Francisco and riding electric scooters. Or driving to the supermarket with one of the closest friends I made here, talking about our future aspirations, marriage, dreams, friends. Eating nonstop in downtown San Francisco, where the only traveling done was to transport our bodies to other places to eat. The opposite of loneliness is knowing that I have many true friends here who will support me through my time at Berkeley and likely the rest of my life. 
+
+I’m incredibly lucky to be here. I think this everyday. I am lucky to have been admitted to Berkeley, and I’m lucky that I realized my admission letter was an opportunity that would change my life. But I’m glad I did, and I try to walk through campus everyday just to enjoy being here. And while the uncertainty of my transfer has been stressful and nauseating at times, it left doors open to exciting possibilities for the next few semesters. Now, I’m left wondering what’s next. I think I’ll always have dreams to chase, but we’ll see where next year takes me.
